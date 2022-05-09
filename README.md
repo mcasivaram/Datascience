@@ -1,8 +1,8 @@
-# Datascience#Register: Username(@gmail.,not atart with special character or number)
-#Password: <5 and >16,one uppercase,one lowercase,one digit,one special character
-import re
-import os.path
+# Datascience
+
 import pandas as pd
+import os.path
+import re
 
 
 def sign_up():
